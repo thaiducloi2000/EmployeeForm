@@ -1,0 +1,21 @@
+D:\Projects\EmployeeForm\obj\Debug\EmployeeForm.frmEmployee.resources
+D:\Projects\EmployeeForm\obj\Debug\EmployeeForm.FrmSearchResult.resources
+D:\Projects\EmployeeForm\obj\Debug\EmployeeForm.Properties.Resources.resources
+D:\Projects\EmployeeForm\obj\Debug\EmployeeForm.csproj.GenerateResource.Cache
+D:\Projects\EmployeeForm\obj\Debug\EmployeeForm.csproj.CoreCompileInputs.cache
+D:\Projects\EmployeeForm\bin\Debug\EmployeeForm.exe.config
+D:\Projects\EmployeeForm\bin\Debug\EmployeeForm.exe
+D:\Projects\EmployeeForm\bin\Debug\EmployeeForm.pdb
+D:\Projects\EmployeeForm\obj\Debug\EmployeeForm.exe
+D:\Projects\EmployeeForm\obj\Debug\EmployeeForm.pdb
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\bin\Debug\EmployeeForm.exe.config
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\bin\Debug\EmployeeForm.exe
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\bin\Debug\EmployeeForm.pdb
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.csprojAssemblyReference.cache
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.frmEmployee.resources
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.FrmSearchResult.resources
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.Properties.Resources.resources
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.csproj.GenerateResource.cache
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.csproj.CoreCompileInputs.cache
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.exe
+E:\Program Files\New world\For Studying\pc1438\PRN292\Chapter19v21\EmployeeForm\obj\Debug\EmployeeForm.pdb
